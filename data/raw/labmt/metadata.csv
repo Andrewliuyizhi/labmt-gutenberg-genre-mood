@@ -1,0 +1,11 @@
+book_id,title,author,genre_group,gutenberg_url,filename
+alice,Alice’s Adventures in Wonderland,Lewis Carroll,children,https://www.gutenberg.org/files/11/11-0.txt,alice.txt
+secret_garden,The Secret Garden,Frances Hodgson Burnett,children,https://www.gutenberg.org/cache/epub/17396/pg17396.txt,secret_garden.txt
+peter_pan,Peter Pan,J. M. Barrie,children,https://www.gutenberg.org/files/16/16-0.txt,peter_pan.txt
+wizard_oz,The Wonderful Wizard of Oz,L. Frank Baum,children,https://www.gutenberg.org/files/55/55-0.txt,wizard_oz.txt
+little_women,Little Women,Louisa May Alcott,children,https://www.gutenberg.org/files/514/514-0.txt,little_women.txt
+dracula,Dracula,Bram Stoker,gothic_horror,https://www.gutenberg.org/files/345/345-0.txt,dracula.txt
+frankenstein,Frankenstein,Mary Shelley,gothic_horror,https://www.gutenberg.org/files/84/84-0.txt,frankenstein.txt
+jekyll_hyde,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,gothic_horror,https://www.gutenberg.org/files/43/43-0.txt,jekyll_hyde.txt
+dorian_gray,The Picture of Dorian Gray,Oscar Wilde,gothic_horror,https://www.gutenberg.org/files/174/174-0.txt,dorian_gray.txt
+turn_screw,The Turn of the Screw,Henry James,gothic_horror,https://www.gutenberg.org/files/209/209-0.txt,turn_screw.txt

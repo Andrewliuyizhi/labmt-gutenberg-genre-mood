@@ -1,0 +1,4 @@
+check,min_token_count,min_matched_token_count,n_children,n_gothic_horror,observed_difference_children_minus_gothic,bootstrap_ci_low,bootstrap_ci_high
+main_chapter_level,300.0,100.0,240,160,0.04051813499302792,0.02828978270733891,0.05291006512713099
+stricter_matched_token_threshold,300.0,200.0,240,160,0.04051813499302792,0.02828978270733891,0.05291006512713099
+book_level_aggregation,,,10,9,0.03471530647302323,0.005283865530898435,0.0638303932167541

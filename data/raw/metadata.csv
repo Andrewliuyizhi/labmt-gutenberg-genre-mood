@@ -1,0 +1,21 @@
+book_id,title,author,genre_group,filename,chapter_pattern
+alice,Alice's Adventures in Wonderland,Lewis Carroll,children,children/alice.txt,default
+dorian_gray,The Picture of Dorian Gray,Oscar Wilde,gothic_horror,gothic_horror/dorian_gray.txt,default
+little_women,Little Women,Louisa May Alcott,children,children/little_women.txt,default
+peter_pan,Peter Pan,J. M. Barrie,children,children/peter_pan.txt,default
+secret_garden,The Secret Garden,Frances Hodgson Burnett,children,children/secret_garden.txt,default
+heidi,Heidi,Johanna Spyri,children,children/heidi.txt,default
+black_beauty,Black Beauty,Anna Sewell,children,children/black_beauty.txt,default
+anne_green_gables,Anne of Green Gables,L. M. Montgomery,children,children/anne_green_gables.txt,default
+five_children,Five Children and It,E. Nesbit,children,children/five_children.txt,default
+wind_in_the_willows,The Wind in the Willows,Kenneth Grahame,children,children/wind_in_the_willows.txt,default
+dracula,Dracula,Bram Stoker,gothic_horror,gothic_horror/dracula.txt,default
+frankenstein,Frankenstein,Mary Shelley,gothic_horror,gothic_horror/frankenstein.txt,default
+jekyll_hyde,Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,gothic_horror,gothic_horror/jekyll_hyde.txt,allcaps_title
+turn_screw,The Turn of the Screw,Henry James,gothic_horror,gothic_horror/turn_screw.txt,roman_only
+wizard_oz,The Wonderful Wizard of Oz,L. Frank Baum,children,children/wizard_oz.txt,default
+carmilla,Carmilla,J. Sheridan Le Fanu,gothic_horror,gothic_horror/carmilla.txt,default
+castle_of_otranto,The Castle of Otranto,Horace Walpole,gothic_horror,gothic_horror/castle_of_otranto.txt,default
+house_seven_gables,The House of the Seven Gables,Nathaniel Hawthorne,gothic_horror,gothic_horror/house_seven_gables.txt,default
+king_in_yellow,The King in Yellow,Robert W. Chambers,gothic_horror,gothic_horror/king_in_yellow.txt,default
+vathek,Vathek,William Beckford,gothic_horror,gothic_horror/vathek.txt,default

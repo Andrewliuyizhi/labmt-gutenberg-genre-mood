@@ -1,0 +1,21 @@
+book_id,title,author,genre_group,filename
+alice,Alice's Adventures in Wonderland,Lewis Carroll,children,children/alice.txt
+dorian_gray,The Picture of Dorian Gray,Oscar Wilde,children,children/dorian_gray.txt
+little_women,Little Women,Louisa May Alcott,children,children/little_women.txt
+peter_pan,Peter Pan,J. M. Barrie,children,children/peter_pan.txt
+secret_garden,The Secret Garden,Frances Hodgson Burnett,children,children/secret_garden.txt
+heidi,Heidi,Johanna Spyri,children,children/heidi.txt
+black_beauty,Black Beauty,Anna Sewell,children,children/black_beauty.txt
+anne_green_gables,Anne of Green Gables,L. M. Montgomery,children,children/anne_green_gables.txt
+five_children,Five Children and It,E. Nesbit,children,children/five_children.txt
+wind_in_the_willows,The Wind in the Willows,Kenneth Grahame,children,children/wind_in_the_willows.txt
+dracula,Dracula,Bram Stoker,gothic_horror,gothic_horror/dracula.txt
+frankenstein,Frankenstein,Mary Shelley,gothic_horror,gothic_horror/frankenstein.txt
+jekyll_hyde,Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,gothic_horror,gothic_horror/jekyll_hyde.txt
+turn_screw,The Turn of the Screw,Henry James,gothic_horror,gothic_horror/turn_screw.txt
+wizard_oz,The Wonderful Wizard of Oz,L. Frank Baum,gothic_horror,gothic_horror/wizard_oz.txt
+carmilla,Carmilla,J. Sheridan Le Fanu,gothic_horror,gothic_horror/carmilla.txt
+castle_of_otranto,The Castle of Otranto,Horace Walpole,gothic_horror,gothic_horror/castle_of_otranto.txt
+house_seven_gables,The House of the Seven Gables,Nathaniel Hawthorne,gothic_horror,gothic_horror/house_seven_gables.txt
+king_in_yellow,The King in Yellow,Robert W. Chambers,gothic_horror,gothic_horror/king_in_yellow.txt
+vathek,Vathek,William Beckford,gothic_horror,gothic_horror/vathek.txt
