@@ -61,7 +61,8 @@ The pipeline consists of four scripts run in order from the repository root.
 
 The labMT lexicon covers approximately 10,000 common English words with crowd-sourced happiness ratings on a 1–9 scale (neutral ≈ 5). No stopword removal was applied; all matched words contribute to the score, which is the standard labMT protocol.
 
-## Results
+## Results/Main Findings
+The main finding is that children's literature scores slightly higher than gothic/horror fiction on chapter-level labMT happiness, with a mean difference of 0.041 points and a 95% bootstrap confidence interval of [0.028, 0.053]. However, the effect is small, the genre distributions overlap substantially, and the book-level result is weaker.
 
 **Genre-level summary** (from `tables/genre_summary.csv`):
 
